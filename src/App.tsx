@@ -15,6 +15,8 @@ import {
 import Dashboard from "./pages/admin/Dashboard";
 import ProductAdd from "./pages/admin/ProductAdd";
 import ProductEdit from "./pages/admin/ProductEdit";
+import Register from "./pages/Register";
+import Login from "./pages/Login";
 
 function App() {
   const navigate = useNavigate();
@@ -59,6 +61,8 @@ function App() {
         <Route path="/">
           <Route index element={<Shop products={products} />} />
           <Route path="/shop/:id" element={<ProductDetail />} />
+          <Route path="/register" element={<Register />} /> 
+          <Route path="/login" element={<Login />} />          
         </Route>
 
         {/* admin */}

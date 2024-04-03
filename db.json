@@ -1,57 +1,6 @@
 {
   "products": [
     {
-      "id": 3,
-      "title": "Samsung Universe 9",
-      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
-      "price": 1249,
-      "discountPercentage": 15.46,
-      "rating": 4.09,
-      "stock": 36,
-      "brand": "Samsung",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/3/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/3/1.jpg"
-      ]
-    },
-    {
-      "id": 4,
-      "title": "OPPOF19",
-      "description": "OPPO F19 is officially announced on April 2021.",
-      "price": 280,
-      "discountPercentage": 17.91,
-      "rating": 4.3,
-      "stock": 123,
-      "brand": "OPPO",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/4/1.jpg",
-        "https://cdn.dummyjson.com/product-images/4/2.jpg",
-        "https://cdn.dummyjson.com/product-images/4/3.jpg",
-        "https://cdn.dummyjson.com/product-images/4/4.jpg",
-        "https://cdn.dummyjson.com/product-images/4/thumbnail.jpg"
-      ]
-    },
-    {
-      "id": 5,
-      "title": "Huawei P30",
-      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
-      "price": 499,
-      "discountPercentage": 10.58,
-      "rating": 4.09,
-      "stock": 32,
-      "brand": "Huawei",
-      "category": "smartphones",
-      "thumbnail": "https://cdn.dummyjson.com/product-images/5/thumbnail.jpg",
-      "images": [
-        "https://cdn.dummyjson.com/product-images/5/1.jpg",
-        "https://cdn.dummyjson.com/product-images/5/2.jpg",
-        "https://cdn.dummyjson.com/product-images/5/3.jpg"
-      ]
-    },
-    {
       "id": 6,
       "title": "MacBook Pro",
       "description": "MacBook Pro 2021 with mini-LED display may launch between September, November",
@@ -575,6 +524,26 @@
       "email": "denvau@gmail.com",
       "password": "$2a$10$vgeZDaW/SPo8JrFS57jTC.WrdGZ/Uxj0Dy0yyzKwhgNPRc3JTpXpC",
       "id": 1
+    },
+    {
+      "email": "duong123pxp@gmail.com",
+      "password": "$2a$10$PohvAh4ACvI4mutkIIZaoOZNQFKKxEz5c7dss9db8CrthokbXFYjy",
+      "id": 2
+    },
+    {
+      "email": "duong13232pxp@gmail.com",
+      "password": "$2a$10$/D/fj0r8g4stlZzx3ynnWut76WpklcpInJ.0FJ/Dv/N3uAfMBOLEK",
+      "id": 3
+    },
+    {
+      "email": "duong123123123pxp@gmail.com",
+      "password": "$2a$10$FNuoAKZfFD.8HmVxPr8v4Ow8U1SeVVQgGHybA7eojFOYC/f5E1Fly",
+      "id": 4
+    },
+    {
+      "email": "duon321312xp@gmail.com",
+      "password": "$2a$10$3HGVOxd7qqBc24zFjHjXDOiuLRSHuk1lUwK4wRBl49T67zlncMzWC",
+      "id": 5
     }
   ]
 }
